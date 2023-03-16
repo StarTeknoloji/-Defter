@@ -22,7 +22,7 @@
 > # ***Amaçlarımız***
 ### - ***İşimiz Tam İstenilen Şekilde En İyi Kaliteyi Sunmaktır.***
 ### - ***Doğru Yolda Yürüyümek ve Gelişmektir.***
-### - ***ürüst, Güvenilir, Güçlü Bir Kaynak Olmaktır.*** 
+### - ***Dürüst, Güvenilir, Güçlü Bir Kaynak Olmaktır.*** 
 ### - ***Eğitmek, Öğretmek, Sağlamak Vazifemizdir.***
 ### - ***Bütçenize uygun seçeneklerimiz zengindir.***
 
