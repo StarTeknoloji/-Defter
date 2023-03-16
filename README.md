@@ -5,7 +5,7 @@
 
 ### ***Hoşgeldiniz Star Teknoloji Hİzmetinizde. Google Haritalar ve Github Sayfalarında Bulabilirsiniz. Bİze Ayırdığınız Vakit için Teşekkür ederiz.Uygun Fiyat Güvenilir iş.***
 
-# ***`Hp`** **`Acer`** **`Lenovo`** **`Dell`** **`Toshiba`** **`Logitech`** **`A4Tech`** **`İntel`** **`AMD`** **`Gigabyte`** **`Asus`** **`MSI`** **`Sony`** **`Casper`** **`Samsung`** **`Apple`** **`LG`** **`Frisby`** **`İNCA`** **`Nec`** **`Corsair`** **`Bitdefender`** **`Creative`** **`Tp-Link`** **`WD`** **`Epson`** **`Canon`** **`SanDisk`** **`GigaSet`** **`Everest`** **`Hytech`** **`Microsoft`** **`Xerox`** **`Slİnk`** **`GeneralMobil`***
+# ***`Hp`** **`Acer`** **`Lenovo`** **`Dell`** **`Toshiba`** **`Logitech`** **`A4Tech`** **`Apple`** **`LG`** **`Frisby`** **`İNCA`** **`Nec`** **`Corsair`** **`Bitdefender`** **`Creative`** **`Tp-Link`** **`WD`** **`Epson`** **`Canon`** **`SanDisk`** **`GigaSet`** **`İntel`** **`AMD`** **`Gigabyte`** **`Asus`** **`MSI`** **`Sony`** **`Casper`** **`Samsung`** **`Everest`** **`Hytech`** **`Microsoft`** **`Xerox`** **`Slİnk`** **`GeneralMobil`***
 
 > # ***Görevlerimiz*** 
 ### - ***Bilgisayar Sistemleri ve Çevre Birimleri*** 
