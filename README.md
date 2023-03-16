@@ -8,16 +8,16 @@
 # **`Hp`** **`Acer`** **`Lenovo`** **`Dell`** **`Toshiba`** **`Logitech`** **`A4Tech`** **`İntel`** **`AMD`** **`Gigabyte`** **`Asus`** **`MSI`** **`Sony`** **`Casper`** **`Samsung`** **`Apple`** **`LG`** **`Frisby`** **`İNCA`** **`Nec`** **`Corsair`** **`Bitdefender`** **`Creative`** **`Tp-Link`** **`WD`** **`Epson`** **`Canon`** **`SanDisk`** **`GigaSet`** **`Everest`** **`Hytech`** **`Microsoft`** **`Xerox`** **`Slİnk`** **`GeneralMobil`**
 
 > # ***Görevlerimiz*** 
-- ***Bilgisayar Sistemleri ve Çevre Birimleri*** 
-- ***Software Satışı ve Kurulumu***
-- ***Hardware Bakım ve Montaj***
-- ***Web Tasarımı ve Sayfaları Düzenleme***
-- ***Network ve Güvenlik Sistemleri***
-- ***Eprom ve BGA Chip Değişimi*** 
-- ***Printer ve Monitör Onarımı***
-- ***Resmi Çıktı, Fotokopi, Pvc Kaplama, Spiral Defter***
-- ***Yerinde Bakım ve Teknik Destek*** 
-- ***2 . El Telefon, Tablet, Elektronik Cihazlar***
+## - ***Bilgisayar Sistemleri ve Çevre Birimleri*** 
+## - ***Software Satışı ve Kurulumu***
+## - ***Hardware Bakım ve Montaj***
+## - ***Web Tasarımı ve Sayfaları Düzenleme***
+## - ***Network ve Güvenlik Sistemleri***
+## - ***Eprom ve BGA Chip Değişimi*** 
+## - ***Printer ve Monitör Onarımı***
+## - ***Resmi Çıktı, Fotokopi, Pvc Kaplama, Spiral Defter***
+## - ***Yerinde Bakım ve Teknik Destek*** 
+## - ***2 . El Telefon, Tablet, Elektronik Cihazlar***
 
 > # ***Amaçlarımız***
 - ***İşimiz Tam İstenilen Şekilde En İyi Kaliteyi Sunmaktır.***
