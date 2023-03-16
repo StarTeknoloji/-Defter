@@ -1,4 +1,4 @@
-# NoteBook
+# ***DEFTER***
 
 > # ***Görevlerimiz*** 
 - ***Bilgisayar Sistemleri ve Çevre Birimleri*** 
