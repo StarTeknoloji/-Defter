@@ -27,8 +27,8 @@
 ### - ***NoteBook Depo***
 ### - ***Dokunmatikçi***
 > # ***Çalışma Saatleri***
-### - ***Hafta İçi 09:00 İle 19:00***
-### - ***Hafta Sonu 11:00 ile 18:00***
+### - ***Hafta İçi servis 7/24***
+### - ***Hafta Sonu servis 7/24***
 ### - ***Resmi Tatillerde Açığız.***
 > # ***İletişim***
 ### - ***Tel : 0288 318 33 40***
@@ -36,7 +36,7 @@
 ### - ***e-Posta : ercetinguler@starteknoloji.space***
 ### - ***e-Posta : ercetinguler@hotmail.com***
 ### - ***e-Posta : user@starcomputer.space***
-### - ***Adresimiz : DEVLET MAHALLESİ 5 NOLU CADDE Şehime Hanım Apt. No:82A TÜRKİYE/Kırklareli/vize***
+### - ***Adresimiz : DEVLET MAHALLESİ KANAL CADDESİ NO:13 TÜRKİYE/Kırklareli/vize***
 ### ***Hizmet Vermekteyiz.***![16682862097148675975993447254057](https://user-images.githubusercontent.com/93947784/201494110-4f844e2c-89bd-418a-9dd5-3f52e07dd71e.png)
 ### - ***Gereç adresimiz ise [StarComputer](https://starcomputer.space)***
 
