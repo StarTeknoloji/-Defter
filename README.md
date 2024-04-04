@@ -38,7 +38,7 @@
 ### - ***e-Posta : ercetinguler@hotmail.com***
 ### - ***e-Posta : user@starcomputer.space***
 ### - ***Adresimiz : DEVLET MAHALLESİ KANAL CADDESİ NO:13 TÜRKİYE/Kırklareli/vize***
-### ***Hizmet Vermekteyiz.***![16682862097148675975993447254057](https://user-images.githubusercontent.com/93947784/201494110-4f844e2c-89bd-418a-9dd5-3f52e07dd71e.png)
+### ***Hizmet Vermekteyiz.***![16682862097148675975993447254057](https://user-images.githubusercontent.com/93947784/201494110-4f844e2c-89bd-418a-9dd5-3f52e07dd71e.png)(https://www.google.com/maps/place/Star+Bilgisayar+Teknoloji/@41.5671173,27.769834,15z/data=!4m6!3m5!1s0x40a09d0884381e21:0xbb3846749383eb66!8m2!3d41.5671173!4d27.769834!16s%2Fg%2F11y3tbtym0?entry=ttu)
 ### - ***Gereç adresimiz ise [StarComputer](https://starcomputer.space)***
 
 
