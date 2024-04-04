@@ -32,8 +32,8 @@
 ### - ***Hafta Sonu servis 7/24***
 ### - ***Resmi Tatillerde Açığız.***
 > # ***İletişim***
-### - ***Tel : 0288 318 33 40***
-### - ***Cep : 0507 236 39 28 (7/24)***
+### - ***Tel : 0288 318 35 60***
+### - ***Cep : 0530 083 12 88 (7/24)***
 ### - ***e-Posta : ercetinguler@starteknoloji.space***
 ### - ***e-Posta : ercetinguler@hotmail.com***
 ### - ***e-Posta : user@starcomputer.space***
